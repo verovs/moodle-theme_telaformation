@@ -5,7 +5,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 // A description shown in the admin theme selector.
-$string['choosereadme'] = 'Le thème de la téléformation est un thème enfant de Boost. Il ajoute quelques nouvelles fonctionnalités';
+$string['choosereadme'] = 'Le thème de telaformation est un thème enfant de Boost. Il ajoute quelques nouvelles fonctionnalités';
 // The name of our plugin.
 $string['pluginname'] = 'Teleformation';
 // The name of the second tab in the theme settings.
